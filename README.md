@@ -1,5 +1,5 @@
 # Used-Cars
-It is crucial for both buyers and sellers to analyze the prices and characteristics of used cars so both parties can make informed decisions. In this project I analyze what determines the prices for used cars with Python. Then I create eye-catching diagrams and charts using Microsoft Powe BI.
+It is crucial for both buyers and sellers to analyze the prices and characteristics of used cars so both parties can make informed decisions. In this project I analyze what determines the prices for used cars with Python. Then I create eye-catching diagrams and charts using Seaborn.
 
 
 I first begin my cleaning the data from the usedcars.csv file since there are missing values for there are data values with a "?" that must be corrected.
