@@ -5,3 +5,7 @@ It is crucial for both buyers and sellers to analyze the prices and characterist
 I first begin my cleaning the data from the usedcars.csv file since there are missing values for there are data values with a "?" that must be corrected.
 I convert the "?" into  NaN "Not a Number"
 In this project I clean and analyze data for used cars using Python Pandas. The data was provided by IMB SkillBuild course.
+
+
+## Data Source
+The dataset used in this analysis was downloaded from [IBM SkillBuild](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Data%20files/auto.csv).
