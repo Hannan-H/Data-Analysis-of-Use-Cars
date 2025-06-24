@@ -11,6 +11,6 @@ After the data was cleaned I used Excel's VLOOKUP to analyze the data and look f
 Below is an image of the binning of the 'horsepower' category.
 ![image](https://github.com/user-attachments/assets/e4ea9201-7242-44c3-9767-8ebdce18835d)
 
-
+Figure 1: From this histogram we can see that most used cars have a low level of horsepower while very few used cars have a highhorse power.
 ## Data Source
 The dataset used in this analysis was downloaded from [IBM SkillBuild](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Data%20files/auto.csv).
