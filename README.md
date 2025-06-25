@@ -15,7 +15,7 @@ Understanding the factors that influence the price of used cars is crucial for b
 
 ## Overview
 
-This project analyzes a dataset of used cars to uncover insights into how various features—such as fuel type, horsepower, and other characteristics—affect their market price. The analysis is done in Python using Pandas and other data science libraries.
+This project analyzes a dataset of used cars to uncover insights into how various features: such as fuel type, horsepower, and other characteristics—affect their market price. The analysis is done in Python using Pandas, NumPy, Seaborn and Matplotlib.
 
 ## Dataset
 
